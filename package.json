@@ -1,0 +1,16 @@
+{
+  "name": "v13-bot",
+  "version": "1.0.0",
+  "description": "Musteribot",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "discord.js": "^13.6.0"
+  }
+}
